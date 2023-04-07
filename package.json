@@ -4,8 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "serve task-2",
+    "test": "jest"
   },
   "author": "School of Code",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "jest": "^29.5.0"
+  },
+  "type": "module"
 }

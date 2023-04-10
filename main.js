@@ -21,5 +21,4 @@
 
 export function attack(playerAgility, playerAttack, enemyHealth) {
   // Write your code here!
-  return output;
 }
